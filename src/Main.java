@@ -67,7 +67,7 @@ public class Main {
         else if (two >one && two>free){
             System.out.println("Максимальное число "+ two);}
           else if (free>two && free>one);{
-            System.out.println("Максимальное число"+ free);
+            System.out.println("Максимальное число"+free);
         }}}
 
 
